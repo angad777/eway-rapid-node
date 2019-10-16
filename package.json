@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "blue-tape": "^0.1.10",
-    "dotenv": "^1.2.0",
+    "dotenv": "^8.2.0",
     "faucet": "0.0.1",
     "istanbul": "^0.3.17",
     "jsdoc": "^3.3.2",
