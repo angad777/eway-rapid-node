@@ -31,7 +31,7 @@
     "node": ">= v0.10.0"
   },
   "dependencies": {
-    "bluebird": "^2.10.2",
+    "bluebird": "^3.7.2",
     "express-uri-template": "^0.1.0",
     "lodash": "^3.10.1",
     "request-promise": "^2.0.1"
